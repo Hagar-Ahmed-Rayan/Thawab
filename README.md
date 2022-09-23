@@ -1,7 +1,7 @@
 # thawab
 
 thawab application is an app for muslims that I use
-1- sharedpreference helper 
+1- sharedpreference 
 2-cubit 
 3- local json data to use it without internet
 3-qibla direction 
