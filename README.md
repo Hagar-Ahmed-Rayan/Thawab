@@ -1,13 +1,13 @@
 # thawab
 
 thawab application is an app for muslims that I use
-1- cache helper 
+1- sharedpreference helper 
 2-cubit 
 3- local json data to use it without internet
 3-qibla direction 
 4- flutter local notification that appear with time it is show some notification from list of azkar using random index
 5-dark,light mood
-6-counter its value saved by cache 
+6-counter its value saved by sharedpreference
 video demo link:
 https://drive.google.com/file/d/1vsYpFCOYyxxTOoRMtgt3VLuNhLezt6aR/view?usp=sharing
 
