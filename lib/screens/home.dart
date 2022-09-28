@@ -5,7 +5,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:thawab/shared/cachehelper.dart';
+import 'package:thawab/screens/sounds.dart';
+import 'package:thawab/shared/sharedpreference.dart';
 import 'package:thawab/shared/components.dart';
 import 'package:thawab/cubit/cubit.dart';
 import 'package:thawab/cubit/states.dart';
@@ -145,12 +146,12 @@ appBar: null,
                         page:azkar(),
                       ),
 
-                /*      CustomCard(
-                        pageTitle: 'القراءن الكريم بالصوت',
+                      CustomCard(
+                        pageTitle: 'القراءن MP3',
                         imageLocation: 'assets/images/s.jpg',
                          context:context,
-                     page:curvednav(),
-                      ),*/
+                     page:sounds(),
+                      ),
                     /*  CustomCard(
                         pageTitle: 'التسبيح',
                         imageLocation: 'assets/images/d.jpg',

@@ -12,7 +12,7 @@ import 'package:thawab/screens/qblah.dart';
 import 'package:thawab/screens/quran.dart';
 import 'package:thawab/screens/setting.dart';
 import 'package:thawab/screens/tasbih.dart';
-import 'package:thawab/shared/cachehelper.dart';
+import 'package:thawab/shared/sharedpreference.dart';
 import 'package:thawab/shared/notifications.dart';
 
 class curvednav extends StatefulWidget {

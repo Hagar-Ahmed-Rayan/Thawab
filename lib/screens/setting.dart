@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_switch/flutter_switch.dart';
 import 'package:thawab/cubit/cubit.dart';
 import 'package:thawab/cubit/states.dart';
-import 'package:thawab/shared/cachehelper.dart';
+import 'package:thawab/shared/sharedpreference.dart';
 
 bool statusmood=false;
 bool statusnotfi=false;

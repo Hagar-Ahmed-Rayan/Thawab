@@ -40,6 +40,7 @@ dependencies:
   rxdart: ^0.27.5
   flutter_qiblah: ^2.0.2
   flutter_svg:
+  audioplayers: ^1.1.0
 
 
 
